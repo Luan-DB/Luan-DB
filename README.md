@@ -1,6 +1,8 @@
 ![alt text](github-header-image.png)
 <br>
-<br>  
+<br> 
+<br>
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=42&pause=1000&color=7E0FE4&width=435&lines=Hey%2C+I'm+Luan)](https://git.io/typing-svg)
 
 ## Passionate about technology, currently working as a Network/Systems Analyst, studying Systems Analysis and Development at PUC Minas 
