@@ -1,6 +1,6 @@
 Prazer, meu nome e Luan. 
 
-Apaixonado pela tecnologia atualmente trabalhando como Analista de redes/sistemas e cursando Analise de Desenvolvimento de sistemas
+Apaixonado pela tecnologia atualmente trabalhando como Analista de redes/sistemas e cursando Analise de Desenvolvimento de sistemas na PUC Minas 
 
 <!--
 **Luan-DB/Luan-DB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
